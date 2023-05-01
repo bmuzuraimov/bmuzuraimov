@@ -17,7 +17,7 @@ Here are some of the skills I've developed over the years:
 ## Projects
 Here are some of the projects I've worked on recently:
 
-[SMS-SaaS](https://github.com/bmuzuraimov/IoT-Connector](https://github.com/bmuzuraimov/SMS-SaaS-A-Twilio-like-SMS-Service-Platform): A Twilio-like SMS service platform built using PHP OOP and MySQL, offering an easy-to-use interface for sending and receiving SMS messages.
+[SMS-SaaS](https://github.com/bmuzuraimov/SMS-SaaS-A-Twilio-like-SMS-Service-Platform): A Twilio-like SMS service platform built using PHP OOP and MySQL, offering an easy-to-use interface for sending and receiving SMS messages.
 
 [Nodeon](https://nodeon.me) is a Notion integration that automates scheduling and task management for students. The system analyzes a student's behavior and task requirements realistically, rescheduling and calculating the amount of time required for tasks. The software features a chatbot that uses natural language processing to understand and respond to user commands from their Notion dashboard. The system is designed for scalability and is monetized through a premium subscription model that offers extra features.
 
