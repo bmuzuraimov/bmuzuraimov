@@ -21,6 +21,8 @@ Here are some of the projects I've worked on recently:
 
 [Nodeon](https://nodeon.me) is a Notion integration that automates scheduling and task management for students. The system analyzes a student's behavior and task requirements realistically, rescheduling and calculating the amount of time required for tasks. The software features a chatbot that uses natural language processing to understand and respond to user commands from their Notion dashboard. The system is designed for scalability and is monetized through a premium subscription model that offers extra features.
 
+[eHospital-PHP-MySQL](https://github.com/bmuzuraimov/eHospital-application-PHP-MySQL): The eHospital application is a web-based hospital management system developed using PHP and MySQL with the Model-View-Controller (MVC) architecture. The application simplifies hospital management tasks and makes it easier for doctors, nurses, and hospital administrators to manage patient data, appointments, and other hospital-related tasks. The application includes features such as user authentication and authorization, chat functionality, medicine and pharmacy management, diagnostic and treatment tools, **patients classification using KNN algorithm**.
+
 [IoT-Connector](https://github.com/bmuzuraimov/IoT-Connector): IoT-Connector is a PHP framework that enables two-way communication with IoT devices.
 
 [Forum Scraper and MongoDB Cloud Storage](https://github.com/bmuzuraimov/Forum-Scraper-and-MongoDB-Cloud-Storage): Python-based web scraper that retrieves data from website forums and stores it in MongoDB cloud.
