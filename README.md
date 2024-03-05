@@ -4,8 +4,8 @@
 
 ## 🦄 Projects
 
-- _**Matchpreneur**_: Tinder but for mentor and mentee.
-- _**Frictionless**_: Life automation productivity app.
+- _**[Frictionless](https://frictless.com)**_: Life automation app.
+- _**[Matchpreneur](https://matchpreneur.app)**_: Tinder but for mentor and mentee.
 
 
 > _If my projects helped you or you appreciate them, please hit a star~ ⭐_
