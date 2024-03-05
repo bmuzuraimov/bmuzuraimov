@@ -3,12 +3,12 @@
 # Hi there, I'm Baiel 👋
 
 ### Work experience 👔
-| Job Position           | Company         | Field                         | Work Period       |
-| ---------------------- | --------------- | ----------------------------- | ----------------- |
-| Cloud Engineer Intern          | Admazes     | NLP, MLOps, Mentoring         | 2023-12 — 2024-01 |
-| Software Engineer Intern   | Oxbridge-Economics  | NLP, TF-IDF, DevOps, Search Engine      | 2023-06 — 2023-09 |
-| Data Science Intern    | Admazes      | Pandas, Scikit learn, Google Ads     | 2020-05 — 2021-02 |
-| Software Engineer Intern  | AI Academy        | AWS, ffmpeg, documentation     | 2021-12 — 2022-01 |
+| Job Position             | Company             | Field                                      | Work Period       |
+| ------------------------ | ------------------- | ------------------------------------------ | ----------------- |
+| Cloud Engineer Intern    | Admazes             | Next.js + Typescript, Prisma ORM, Tailwind | 2023-12 — 2024-01 |
+| Software Engineer Intern | Oxbridge-Economics  | NLP, TF-IDF, DevOps, Search Engine         | 2023-06 — 2023-09 |
+| Data Science Intern      | Admazes             | Pandas, Scikit learn, Google Ads           | 2020-05 — 2021-02 |
+| Software Engineer Intern | AI Academy          | AWS, ffmpeg, documentation                 | 2021-12 — 2022-01 |
 
 ### Education 🎓
 - **Bachelor's Degree** @ Hong Kong Baptist University (2021 - 2025)
