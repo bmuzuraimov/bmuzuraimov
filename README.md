@@ -2,6 +2,20 @@
 
 # Hi there, I'm Baiel 👋
 
+### Work experience 👔
+| Job Position           | Company         | Field                         | Work Period       |
+| ---------------------- | --------------- | ----------------------------- | ----------------- |
+| Cloud Engineer Intern          | Admazes     | NLP, MLOps, Mentoring         | 2023-12 — 2024-01 |
+| Software Engineer Intern   | Oxbridge-Economics  | NLP, TF-IDF, DevOps, Search Engine      | 2023-06 — 2023-09 |
+| Data Science Intern    | Admazes      | Pandas, Scikit learn, Google Ads     | 2020-05 — 2021-02 |
+| Software Engineer Intern  | AI Academy        | AWS, ffmpeg, documentation     | 2021-12 — 2022-01 |
+
+### Education 🎓
+- **Bachelor's Degree** @ Hong Kong Baptist University (2021 - 2025)
+- **Fintech Bootcamp** @ University of Cambridge (2023 - 2023)
+- **Associate Degree** @ Glendale Community College (2018 - 2020)
+
+
 ## 🦄 Projects
 
 - _**[Frictionless](https://frictless.com)**_: Life automation app.
@@ -42,6 +56,4 @@ myLife().next()
 
 ## Contact
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me:
-LinkedIn: https://www.linkedin.com/in/bmuzuraimov/
-Email: bmuzuraimov@gmail.com
-Thanks for stopping by!
+[LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
