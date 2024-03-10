@@ -18,7 +18,7 @@
 
 ## 🦄 Projects
 
-- _**[Frictionless](https://frictless.com)**_: Life automation app.
+- _**[Frictionless](https://frictless.com?ref=Github)**_: Life automation app.
 - _**[Matchpreneur](https://matchpreneur.app)**_: Tinder but for mentor and mentee.
 
 
