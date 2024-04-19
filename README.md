@@ -22,7 +22,8 @@
 
 - _**[Frictionless](https://frictless.com?ref=Github)**_: Life automation app.
 - _**[Matchpreneur](https://matchpreneur.app)**_: Tinder but for mentor and mentee.
-
+- _**[Grammarly Clone](https://github.com/bmuzuraimov/Grammarly-Clone-T5-Vue-Flask)**_: English sentence corrector pretrained on T5-small transformer.
+- _**[3D Machine Learning Algorithm Visualizer](https://github.com/bmuzuraimov/3D-Machine-Learning-Visualizer)**_: Algorithm: Affinity Propogation, K-Means, SVM, PCA.
 
 > _If my projects helped you or you appreciate them, please hit a star~ ⭐_
 
