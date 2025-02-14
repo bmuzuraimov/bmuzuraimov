@@ -5,14 +5,13 @@
 ### Work experience 👔
 | Job Position             | Company             | Field                                      | Work Period       |
 | ------------------------ | ------------------- | ------------------------------------------ | ----------------- |
-| IT Research Assistant    | HKBU                | Vue.js + Typescript, Recommender System    | 2023-11 — Present |
+| IT Research Assistant    | HKBU                | Vue.js + Typescript, Recommender System    | 2023-11 — 2024-11 |
 | Cloud Engineer Intern    | Admazes             | Next.js + Typescript, Prisma ORM, Tailwind | 2023-12 — 2024-01 |
 | Software Engineer Intern | Oxbridge-Economics  | NLP, TF-IDF, DevOps, Search Engine         | 2023-06 — 2023-09 |
 | Data Science Intern      | Admazes             | Pandas, Scikit learn, Google Ads           | 2020-05 — 2021-02 |
 | Software Engineer Intern | AI Academy          | AWS, ffmpeg, documentation                 | 2021-12 — 2022-01 |
 
 ### Education 🎓
-- **Exchange Program** @ McGill University (2024 - 2024)
 - **Bachelor's Degree** @ Hong Kong Baptist University (2021 - 2025)
 - **Fintech Bootcamp** @ University of Cambridge (2023 - 2023)
 - **Associate Degree** @ Glendale Community College (2018 - 2020)
