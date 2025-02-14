@@ -19,18 +19,9 @@
 
 ## 🦄 Projects
 
-- _**[Frictionless](https://frictless.com?ref=Github)**_: Life automation app.
-- _**[Matchpreneur](https://matchpreneur.app)**_: Tinder but for mentor and mentee.
-- _**[Grammarly Clone](https://github.com/bmuzuraimov/Grammarly-Clone-T5-Vue-Flask)**_: English sentence corrector pretrained on T5-small transformer.
-- _**[3D Machine Learning Algorithm Visualizer](https://github.com/bmuzuraimov/3D-Machine-Learning-Visualizer)**_: Algorithm: Affinity Propogation, K-Means, SVM, PCA.
 
 > _If my projects helped you or you appreciate them, please hit a star~ ⭐_
 
-
-## 🕹️ Organizations
-
-- _** [Frictless](https://github.com/frictless)**_: A project focused on life automation and dedicated building working productivity app.
-  
 ## 💫 State
 
 ```typescript
@@ -53,9 +44,9 @@ myLife().next()
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,tailwind,nuxtjs,nodejs,express,prisma,aws,mongodb,redis,docker,linux,nginx,java,github,postman,vercel,git&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,aws,docker,linux,java,git&theme=light&perline=10" />
 </p>
 
 ## Contact
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me:
-[LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
+[LinkedIn](https://www.linkedin.com/in/dayyass/](https://www.linkedin.com/in/bmuzuraimov/) 🚀
